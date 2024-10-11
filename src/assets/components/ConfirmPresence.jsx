@@ -9,7 +9,7 @@ const ConfirmPresence = () => {
 
     return (
         <div className='confirm'>
-            <h3>Խնդրում ենք հաստատել Ձեր ներկայությունը միջոցառմանը</h3>
+            <h3>Խնդրում ենք հաստատել Ձեր ներկայությունը և հյուրերի թիվը</h3>
             <div className='confirm-presence'>
                 <a href="https://wa.me/+37493955656" aria-label="Contact via WhatsApp" target='_blank' rel="noopener noreferrer">
                     <i className="fab fa-whatsapp"></i>
